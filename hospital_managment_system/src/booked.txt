@@ -1,0 +1,3 @@
+1ahmed|hab|Saturday From 8 to 9|
+1|aaa||Sunday   From 7 to 8
+1|ahmed|hab|Monday   From 8 to 9

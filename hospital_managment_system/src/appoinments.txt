@@ -1,0 +1,21 @@
+1|Saturday From 7 to 8|  booked 
+2|Saturday From 8 to 9|  booked 
+|Saturday From 9 to 10|  booked 
+4|Sunday   From 7 to 8|  booked 
+5|Sunday   From 8 to 9|  booked 
+6|Sunday   From 9 to 10|Available
+7|Monday   From 7 to 8|Available
+8|Monday   From 8 to 9|  booked 
+9|Monday   From 9 to 10|Available
+10|Tuesday  From 7 to 8|Available
+11|Tuesday  From 8 to 9|Available
+12|Tuesday  From 9 to 10|Available
+13|Wednesday From 7 to 8|Available
+14|Wednesday From 8 to 9|Available
+15|Wednesday From 9 to 10|Available 
+16|Thursday From 7 to 8|Available
+17|Thursday From 8 to 9|Available
+18|Thursday From 9 to 10|Available
+19|Friday  From  7 to 8|Available
+20|Friday  From  8 to 9|Available
+21|Friday  From  9 to 10|Available
