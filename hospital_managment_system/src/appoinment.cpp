@@ -9,7 +9,7 @@ using namespace std;
 class Appointments 
 {
 private:
-	static int nextId;
+	static int nextID;
 	int id;
 	string AppointmentDate;
 	Doctors doctor;
@@ -17,7 +17,7 @@ private:
 	Paitent paitent;
 public:
 	Appointments() {
-		id = nextId++;
+		id = nextID++;
 	}
 	void book_appointment()
 	{
@@ -98,9 +98,3 @@ public:
 	}
 };
 
-int Appointments :: nextId = 1;
-
-int main() {
-	Appointments app;
-	app.book_appointment();
-}

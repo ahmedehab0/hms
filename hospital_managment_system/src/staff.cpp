@@ -250,11 +250,3 @@ void Staff::deleteStaff() {
 	temp.close();
 	tempindex.close();
 }
-
-
-int main() {
-	Staff staff;
-	staff.addStaff();
-	staff.getAllStaffs();
-	return 0;
-}
